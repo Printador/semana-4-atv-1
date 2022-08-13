@@ -1,0 +1,43 @@
+Materiais
+
+	Aluno
+		(Atributos)
+		Altura 
+		Idade 
+		Sexo
+		(Métodos)
+		Pesquisar
+		Estudar 
+		Executar
+
+	Carro 
+		(Atributos)		
+		Altura
+		Peso
+		Movimento
+		(Métodos)
+		Acelerar
+		Freiar
+		Buzinar
+
+Abstratos
+
+	Música
+		(Atributos)
+		Genero
+		Duração
+		Volume
+		(Métodos)
+		Sentimento
+		Ritmo
+		Comunicação
+
+	Sentimento
+		(Atributos)
+		Intensidade
+		Origem
+		Duração
+		(Métodos)
+		Cativar
+		Transformar
+		Influenciar
